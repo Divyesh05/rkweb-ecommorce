@@ -1,0 +1,377 @@
+{
+    "status": "1",
+    "message": "Categories Found Successfully",
+    "data": [
+        {
+            "id": 1,
+            "name": "Electronics",
+            "description": "All Electronic Items",
+            "image": "Category/D0izdF.jpeg",
+            "parent": null,
+            "path": null,
+            "level": 1,
+            "status": 1,
+            "create_time": "2020-05-26 16:35:54",
+            "parent_name": null,
+            "children": [
+                {
+                    "c_id": 29,
+                    "c_name": "Camera",
+                    "c_image": null,
+                    "c_parent": 1,
+                    "c_parent_name": "Electronics"
+                },
+                {
+                    "c_id": 28,
+                    "c_name": "Speaker",
+                    "c_image": null,
+                    "c_parent": 1,
+                    "c_parent_name": "Electronics"
+                },
+                {
+                    "c_id": 27,
+                    "c_name": "Desktop Pcs",
+                    "c_image": null,
+                    "c_parent": 1,
+                    "c_parent_name": "Electronics"
+                },
+                {
+                    "c_id": 26,
+                    "c_name": "Laptop",
+                    "c_image": null,
+                    "c_parent": 1,
+                    "c_parent_name": "Electronics"
+                },
+                {
+                    "c_id": 25,
+                    "c_name": "Healthcare Appliances",
+                    "c_image": null,
+                    "c_parent": 1,
+                    "c_parent_name": "Electronics"
+                },
+                {
+                    "c_id": 24,
+                    "c_name": "Smart Wearable",
+                    "c_image": null,
+                    "c_parent": 1,
+                    "c_parent_name": "Electronics"
+                },
+                {
+                    "c_id": 23,
+                    "c_name": "Mobile Accessories",
+                    "c_image": null,
+                    "c_parent": 1,
+                    "c_parent_name": "Electronics"
+                },
+                {
+                    "c_id": 22,
+                    "c_name": "Mobile",
+                    "c_image": null,
+                    "c_parent": 1,
+                    "c_parent_name": "Electronics"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "TVs & Appliances",
+            "description": "TVs & Appliances related items",
+            "image": "Category/iEWD2D.jpeg",
+            "parent": null,
+            "path": null,
+            "level": 1,
+            "status": 1,
+            "create_time": "2020-05-26 16:36:23",
+            "parent_name": null,
+            "children": [
+                {
+                    "c_id": 32,
+                    "c_name": "Air Conditioner",
+                    "c_image": null,
+                    "c_parent": 2,
+                    "c_parent_name": "TVs & Appliances"
+                },
+                {
+                    "c_id": 31,
+                    "c_name": "Washing Machine",
+                    "c_image": null,
+                    "c_parent": 2,
+                    "c_parent_name": "TVs & Appliances"
+                },
+                {
+                    "c_id": 30,
+                    "c_name": "Television",
+                    "c_image": null,
+                    "c_parent": 2,
+                    "c_parent_name": "TVs & Appliances"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Men",
+            "description": "everything about men",
+            "image": "Category/sB4Dpl.jpeg",
+            "parent": null,
+            "path": null,
+            "level": 1,
+            "status": 1,
+            "create_time": "2020-05-26 16:36:52",
+            "parent_name": null,
+            "children": [
+                {
+                    "c_id": 47,
+                    "c_name": "Watches",
+                    "c_image": null,
+                    "c_parent": 3,
+                    "c_parent_name": "Men"
+                },
+                {
+                    "c_id": 46,
+                    "c_name": "Beauty & Mackup",
+                    "c_image": null,
+                    "c_parent": 3,
+                    "c_parent_name": "Men"
+                },
+                {
+                    "c_id": 38,
+                    "c_name": "Bottom Wear",
+                    "c_image": "null",
+                    "c_parent": 3,
+                    "c_parent_name": "Men"
+                },
+                {
+                    "c_id": 36,
+                    "c_name": "Top Wear",
+                    "c_image": "null",
+                    "c_parent": 3,
+                    "c_parent_name": "Men"
+                },
+                {
+                    "c_id": 33,
+                    "c_name": "Foot Wear",
+                    "c_image": null,
+                    "c_parent": 3,
+                    "c_parent_name": "Men"
+                },
+                {
+                    "c_id": 10,
+                    "c_name": "Personal Care",
+                    "c_image": "Category/9evgdr.webp",
+                    "c_parent": 3,
+                    "c_parent_name": "Men"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Women",
+            "description": "everything about womens",
+            "image": "Category/BC74Qh.jpeg",
+            "parent": null,
+            "path": null,
+            "level": 1,
+            "status": 1,
+            "create_time": "2020-05-26 16:37:15",
+            "parent_name": null,
+            "children": [
+                {
+                    "c_id": 48,
+                    "c_name": "Watches",
+                    "c_image": null,
+                    "c_parent": 4,
+                    "c_parent_name": "Women"
+                },
+                {
+                    "c_id": 45,
+                    "c_name": "Beauty & Mackup",
+                    "c_image": null,
+                    "c_parent": 4,
+                    "c_parent_name": "Women"
+                },
+                {
+                    "c_id": 44,
+                    "c_name": "Personal Care",
+                    "c_image": null,
+                    "c_parent": 4,
+                    "c_parent_name": "Women"
+                },
+                {
+                    "c_id": 43,
+                    "c_name": "Foot Wear",
+                    "c_image": null,
+                    "c_parent": 4,
+                    "c_parent_name": "Women"
+                },
+                {
+                    "c_id": 42,
+                    "c_name": "Bottom Wear",
+                    "c_image": "null",
+                    "c_parent": 4,
+                    "c_parent_name": "Women"
+                },
+                {
+                    "c_id": 41,
+                    "c_name": "Top Wear",
+                    "c_image": "null",
+                    "c_parent": 4,
+                    "c_parent_name": "Women"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Baby & Kids",
+            "description": "everything about kids and childrens are under this category",
+            "image": "Category/cxwwCS.jpeg",
+            "parent": null,
+            "path": null,
+            "level": 1,
+            "status": 1,
+            "create_time": "2020-05-26 16:37:44",
+            "parent_name": null,
+            "children": [
+                {
+                    "c_id": 54,
+                    "c_name": "Girls Footwear",
+                    "c_image": null,
+                    "c_parent": 5,
+                    "c_parent_name": "Baby & Kids"
+                },
+                {
+                    "c_id": 53,
+                    "c_name": "Boys Footwear",
+                    "c_image": null,
+                    "c_parent": 5,
+                    "c_parent_name": "Baby & Kids"
+                },
+                {
+                    "c_id": 52,
+                    "c_name": "School Supplies & Stationary",
+                    "c_image": null,
+                    "c_parent": 5,
+                    "c_parent_name": "Baby & Kids"
+                },
+                {
+                    "c_id": 51,
+                    "c_name": "Baby Care",
+                    "c_image": null,
+                    "c_parent": 5,
+                    "c_parent_name": "Baby & Kids"
+                },
+                {
+                    "c_id": 50,
+                    "c_name": "Kids Clothes",
+                    "c_image": null,
+                    "c_parent": 5,
+                    "c_parent_name": "Baby & Kids"
+                },
+                {
+                    "c_id": 49,
+                    "c_name": "Toys",
+                    "c_image": null,
+                    "c_parent": 5,
+                    "c_parent_name": "Baby & Kids"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Home & Furniture",
+            "description": "Home & Furniture related items are under this category",
+            "image": "Category/gX5tby.jpeg",
+            "parent": null,
+            "path": null,
+            "level": 1,
+            "status": 1,
+            "create_time": "2020-05-26 16:38:19",
+            "parent_name": null,
+            "children": [
+                {
+                    "c_id": 59,
+                    "c_name": "Furniture",
+                    "c_image": null,
+                    "c_parent": 6,
+                    "c_parent_name": "Home & Furniture"
+                },
+                {
+                    "c_id": 58,
+                    "c_name": "Cleaning Supplies",
+                    "c_image": null,
+                    "c_parent": 6,
+                    "c_parent_name": "Home & Furniture"
+                },
+                {
+                    "c_id": 57,
+                    "c_name": "Kitchen Storage",
+                    "c_image": null,
+                    "c_parent": 6,
+                    "c_parent_name": "Home & Furniture"
+                },
+                {
+                    "c_id": 56,
+                    "c_name": "Tableware & Dinnerware",
+                    "c_image": null,
+                    "c_parent": 6,
+                    "c_parent_name": "Home & Furniture"
+                },
+                {
+                    "c_id": 55,
+                    "c_name": "Kitchen Cookware",
+                    "c_image": null,
+                    "c_parent": 6,
+                    "c_parent_name": "Home & Furniture"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Foods & Grocery",
+            "description": "all the grocery related items are under this category",
+            "image": "Category/wFYCxn.jpeg",
+            "parent": null,
+            "path": null,
+            "level": 1,
+            "status": 1,
+            "create_time": "2020-05-26 16:41:25",
+            "parent_name": null,
+            "children": [
+                {
+                    "c_id": 15,
+                    "c_name": "Grocery & Staples",
+                    "c_image": "Category/8kr6wK.webp",
+                    "c_parent": 7,
+                    "c_parent_name": "Foods & Grocery"
+                },
+                {
+                    "c_id": 14,
+                    "c_name": "Breakfast & Dairy",
+                    "c_image": "Category/wYD6Hx.webp",
+                    "c_parent": 7,
+                    "c_parent_name": "Foods & Grocery"
+                },
+                {
+                    "c_id": 13,
+                    "c_name": "Noodles, Sauces & Instant Food",
+                    "c_image": "Category/Y7hE6k.webp",
+                    "c_parent": 7,
+                    "c_parent_name": "Foods & Grocery"
+                },
+                {
+                    "c_id": 12,
+                    "c_name": "Biscuits, Snacks & Chocolates",
+                    "c_image": "Category/0JjIYw.webp",
+                    "c_parent": 7,
+                    "c_parent_name": "Foods & Grocery"
+                },
+                {
+                    "c_id": 11,
+                    "c_name": "Beverages",
+                    "c_image": "Category/cG73Xm.webp",
+                    "c_parent": 7,
+                    "c_parent_name": "Foods & Grocery"
+                }
+            ]
+        }
+    ]
+}

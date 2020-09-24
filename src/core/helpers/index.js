@@ -1,0 +1,1 @@
+export const apiEndPoint="https://rkinfoways.com:3018/";
